@@ -19,3 +19,7 @@ Everything is documented in Javadoc `(//Javadoc)` so You can understand .
 
 # License
 GPL-v3.0
+
+# Special Thanks to 
+
+<img src="https://zed.dev/_next/static/media/logo-new-blue-black.16678~z36t.8f.png" alt="Zed"/>
