@@ -89,4 +89,14 @@ fn main() {
         x + 1 // Expression no ;
     };
     println!("{}", express(5, 9));
+
+    //LOOPS
+    for i in 1..5 {
+        println!("{}", i); // to include the five add =
+    }
+    let mut i = 0
+    while i <= 20 {
+        println!("You are in step number {} " , i)
+        i+=1
+    }
 }
