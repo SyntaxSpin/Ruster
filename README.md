@@ -15,7 +15,7 @@ Special thanks to them
 I heared that the programming language is capable of everything so I learned it just for fun
 
 # Instructions 
-Everything is documented in Javadoc `(//Javadoc)` so You can understand .
+Everything is documented in Comments `(//Comment)` so You can understand .
 
 # License
 GPL-v3.0
